@@ -36,9 +36,10 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Fodly18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fodly18&theme=dark&hide_border=false)<br/>
  <img align="right" height="200" src="img/Shannon Sharpe Suit Meme GIF - Shannon Sharpe Suit Meme Man Wearing Suit Meme - Discover & Share GIFs.gif"  />
+![](https://nirzak-streak-stats.vercel.app/?user=Fodly18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fodly18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
@@ -50,11 +51,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fodly18/Fodly18/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Fodly18/Fodly18/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
