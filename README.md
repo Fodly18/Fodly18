@@ -33,15 +33,15 @@ Associate Degree Student in Informatics Engineering at Politeknik Negeri Jember.
 - Developed a comprehensive web platform for exploring tourism destinations in East Java with interactive route tracking and specialized multi-category search optimization.
 
 ### 🌿 [SmartCoy](https://github.com/Fodly18/web_monitoring_agro) - IoT Hydroponic Monitoring & AI
-- **Tech Stack:** Node.js, React, Python, ESP32, MQTT/WebSockets, MySQL.
+- **Tech Stack:** PHP/Laravel, JavaScript, ,Bootstrap, Python, C++, ESP32, MQTT/WebSockets, MySQL.
 - Built a real-time fullstack web dashboard to visualize sensor data (pH, PPM, temperature) and assisted in early-stage Computer Vision (HOG & SVM) modeling for leaf disease detection.
 
 ### 🛒 [GoLapak](https://github.com/HiragiIsMe/golapak-web) - UMKM Digitalization Platform
-- **Tech Stack:** Node.js, Express, React, TypeScript, PostgreSQL.
+- **Tech Stack:** PHP/Laravel,JavaScript, MySQL, Bootstrap.
 - Executed a 100% responsive frontend interface and designed reliable RESTful APIs to ensure seamless web-to-mobile platform synchronization.
 
 ### 📚 [Edu-Learn](https://github.com/Fodly18/Nekolympus_S3) - LMS Platform SDN 1 Kalisat
-- **Tech Stack:** PHP/Laravel, JavaScript, MySQL, Bootstrap.
+- **Tech Stack:** PHP/MVC, JavaScript, MySQL, Bootstrap.
 - Acted as the Lead System Architect to build an end-to-end learning management system featuring grading systems and student material management.
 
 ---
