@@ -1,5 +1,4 @@
 # Hi there, I'm eki! 👋
-# My Full name is Mohammad Seedqi Al Ghifari
 **Fullstack Web Developer & Systems Enthusiast**
 
 Associate Degree Student in Informatics Engineering at Politeknik Negeri Jember. I am passionate about building efficient, scalable web applications and exploring the intersection of web development, hardware orchestration (IoT), and modern system design.
