@@ -75,24 +75,27 @@
 
 ## 📊 GitHub Analytics & Animations
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fodly18&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fodly18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fodly18&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=495" alt="GitHub Stats" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fodly18&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=495" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fodly18&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Fodly18&theme=dark&hide_border=true&card_width=495" alt="GitHub Streak" />
+</p>
 
 ### 🕹️ Pac-Man Contribution Adventure
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fodly18/Fodly18/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fodly18/Fodly18/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Fodly18/Fodly18/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fodly18/Fodly18/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fodly18/Fodly18/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Fodly18/Fodly18/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ---
 
