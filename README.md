@@ -34,16 +34,29 @@
 ## 💻 Tech Stack & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,js,java,html,tailwind,bootstrap,py,cpp,arduino,mysql,firebase,vercel,git,github,postman,maven&theme=dark&perline=8" alt="stack icons" /></a>
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" height="48" alt="php" />
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="48" alt="laravel" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="48" alt="js" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="48" alt="java" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="48" alt="html" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="48" alt="tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="48" alt="bootstrap" />
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" height="48" alt="python" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="48" alt="cpp" />
+  <img src="./assets/esp32.svg" height="48" alt="esp32" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="48" alt="arduino" />
+  <img src="./assets/mqtt.svg" height="48" alt="mqtt" />
+  <img src="./assets/websocket.svg" height="48" alt="websocket" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" alt="mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="48" alt="firebase" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" alt="vercel" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" alt="git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="github" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="48" alt="postman" />
+  <img src="https://skillicons.dev/icons?i=maven&theme=dark" height="48" alt="maven" />
 </p>
 
-<p align="center">
-  <img src="./assets/esp32.svg" width="48" alt="esp32" />
-  <img src="./assets/mqtt.svg" width="48" alt="mqtt" />
-  <img src="./assets/websocket.svg" width="48" alt="websocket" />
-</p>
-
-<!-- ponytail: icon IoT custom di ./assets/*.svg (40x40 tile, bg #1a1b27) — commit folder assets ke repo Fodly18/Fodly18 bareng README ini -->
+<!-- ponytail: skillicons tak punya slug esp32/mqtt/websocket, jadi tiap icon jadi <img> 48px inline agar semua sejajar & wrap rapi -->
 
 ---
 
