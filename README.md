@@ -63,29 +63,6 @@
 
 ---
 
-## 🎲 3D Playground — klik buat main!
-
-> GitHub README blok JS → 3D playable inline tidak bisa. Workaround: preview SVG + klik buka demo interaktif full 3D.
-
-<p align="center">
-  <a href="https://spline.design" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY_3D-CLICK_ME-2e97f7?style=for-the-badge&logo=three.js&logoColor=white" alt="play 3d" />
-  </a>
-  <a href="https://spline.design" target="_blank">
-    <img src="https://img.shields.io/badge/DRAG%20%26%20ZOOM-interactive-38bdf8?style=flat" alt="drag zoom" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://spline.design" target="_blank">
-    <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="3D contrib" />
-  </a>
-</p>
-
-<!-- ponytail: ganti https://spline.design di atas dengan link Spline/Three.js Vercel kamu. Generate 3D contrib real di https://github.com/yoshi389111/github-profile-3d-contrib (workflow → profile-3d-contrib/profile-green-animate.svg) lalu ganti src di atas -->
-
----
-
 ## 📊 GitHub Analytics & Animations
 
 <div align="center">
@@ -107,14 +84,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fodly18&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
 </div>
 
-### 🐍 Snake — watch my contributions get eaten!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fodly18/Fodly18/output/github-contribution-grid-snake.svg" alt="snake dark" />
-</p>
-
-<!-- ponytail: butuh workflow Platane/snk — jika belum ada, generate via https://github.com/Platane/snk -->
-
 ### 🕹️ Pac-Man Contribution Adventure
 
 <picture>
@@ -129,11 +98,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-seedqi-al-ghifari-5719383b4/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="mailto:mseedqialghifai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://www.instagram.com/f_odly" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" /></a>
 </p>
-
-> <!-- ponytail: ganti your.email@example.com di atas dengan email real kamu — badge mailto langsung aktif --> Email badge pakai `mailto:` — klik langsung buka mail app. Ganti `your.email@example.com` → email kamu, commit.
 
 ---
 
