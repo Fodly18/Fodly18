@@ -6,9 +6,9 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Fodly18.Fodly18&left_text=Profile%20views" alt="views" />
-  <img src="https://img.shields.io/github/followers/Fodly18?label=Followers&style=flat&color=2e97f7" alt="followers" />
-  <img src="https://img.shields.io/badge/focus-Fullstack%20%2B%20IoT%20%2B%20AI-38bdf8?style=flat" alt="focus" />
-  <img src="https://img.shields.io/badge/status-open%20for%20intern-green?style=flat" alt="status" />
+  <img src="https://img.shields.io/github/followers/Fodly18?label=Followers&logo=github&style=for-the-badge&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20x%20IoT%20x%20AI-38bdf8?style=for-the-badge&logo=rocket&logoColor=white" alt="focus" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Intern-22c55e?style=for-the-badge&logo=handshake&logoColor=white" alt="status" />
 </p>
 
 <p align="center">
@@ -34,17 +34,14 @@
 ## 💻 Tech Stack & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,js,java,html,tailwind,bootstrap,py,cpp,mysql,firebase,vercel,git,github,postman,maven&theme=dark&perline=8" alt="stack icons" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,js,java,html,tailwind,bootstrap,py,cpp,arduino,mysql,firebase,vercel,git,github,postman,maven&theme=dark&perline=8" alt="stack icons" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" alt="esp32" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" alt="mqtt" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white" alt="websocket" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="arduino" />
+  <img src="https://img.shields.io/badge/ESP32-111827?style=for-the-badge&logo=espressif&logoColor=white" alt="esp32" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="mqtt" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="websocket" />
 </p>
-
-<!-- ponytail: skillicons lebih clean dari shields flat — ganti perline=8 → 6 kalau mau besar -->
 
 ---
 
