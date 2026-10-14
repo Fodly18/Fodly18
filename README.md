@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e97f7,100:a5b4fc&height=200&section=header&text=Eki%20—%20Fullstack%20×%20IoT%20×%20Systems&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Politeknik%20Negeri%20Jember%20·%20Building%20scalable%20web%20apps%20✨&descAlignY=51&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e97f7,100:a5b4fc&height=240&section=header&text=Eki%20—%20Fullstack%20x%20IoT%20x%20Systems&fontSize=28&fontColor=ffffff&animation=fadeIn&desc=Politeknik%20Negeri%20Jember%20—%20Building%20scalable%20web%20apps&descAlignY=75&descAlign=50" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+eki!+%F0%9F%91%8B;Fullstack+Web+Dev+%2B+Systems+Enthusiast;Advanced+Fullstack+%26+DevOps+explorer;IoT+%2B+AI+%2B+Scalable+Web+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fodly18&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fodly18.Fodly18&left_text=Profile%20views" alt="views" />
   <img src="https://img.shields.io/github/followers/Fodly18?label=Followers&style=flat&color=2e97f7" alt="followers" />
   <img src="https://img.shields.io/badge/focus-Fullstack%20%2B%20IoT%20%2B%20AI-38bdf8?style=flat" alt="focus" />
   <img src="https://img.shields.io/badge/status-open%20for%20intern-green?style=flat" alt="status" />
@@ -73,15 +73,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fodly18&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" alt="trophy" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Fodly18&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fodly18&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://streak-stats.demolab.com/?user=Fodly18&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ### 🕹️ Pac-Man Contribution Adventure
