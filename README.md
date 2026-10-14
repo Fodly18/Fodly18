@@ -110,10 +110,29 @@
 
 ## 🤝 Let's Connect!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-seedqi-al-ghifari-5719383b4/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:mseedqialghifai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://www.instagram.com/f_odly" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" /></a>
+<p align="center">
+  <i>Tertarik kolaborasi, ngobrol soal web/IoT, atau punya peluang magang/kerja? Reach me out! 👇</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-seedqi-al-ghifari-5719383b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:mseedqialghifai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://www.instagram.com/f_odly" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://github.com/Fodly18" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:mseedqialghifai@gmail.com?subject=Let%27s%20work%20together">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2E97F7&center=true&vCenter=true&width=420&lines=%F0%9F%92%AC+Open+for+internship+%26+junior+dev+roles;%F0%9F%93%A9+Reply+usually+within+24h" alt="CTA" />
+  </a>
 </p>
 
 ---
