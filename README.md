@@ -21,7 +21,7 @@
 
 > Associate Degree Student in Informatics Engineering at **Politeknik Negeri Jember**. Passionate about efficient, scalable web apps + hardware orchestration (IoT) + modern system design.
 
-- 🚀 **Currently exploring:** Advanced Fullstack & DevOps — Laravel ecosystem, API design, infra basics
+- 🚀 **Currently building:** **NCH — School Management System** (Laravel + React + Flutter) & exploring Advanced Fullstack & DevOps
 - 🧪 **Tinkering:** ESP32 + MQTT/WebSockets + sensor fusion (pH/PPM/temp) & early CV (HOG+SVM)
 - ⚡ **Fun fact:** Suka ngoprek sampai sensor ngambek, lalu fix pakai `console.log` & doa 🙏
 - 🎮 **When not coding:** ngulik IoT, gaming, ngelayap cari inspirasi
@@ -70,6 +70,65 @@
 | 🌿 **[SmartCoy](https://github.com/Fodly18/web_monitoring_agro)** — IoT Hydroponic + AI | `Laravel` `JS` `Bootstrap` `Python` `C++` `ESP32` `MQTT` `MySQL` | Realtime dashboard pH/PPM/temp + HOG & SVM leaf disease early model |
 | 🛒 **[GoLapak](https://github.com/HiragiIsMe/golapak-web)** — UMKM Digitalization | `Laravel` `JS` `MySQL` `Bootstrap` | 100% responsive + RESTful API sinkron web ↔ mobile |
 | 📚 **[Edu-Learn](https://github.com/Fodly18/Nekolympus_S3)** — LMS SDN 1 Kalisat | `PHP/MVC` `JS` `MySQL` `Bootstrap` | Lead System Architect — grading + material management end-to-end |
+
+---
+
+## 🏫 Flagship: NCH (Nurul Chotib) — School Management System
+
+> Sistem manajemen sekolah *end-to-end*: **REST API + Web Admin + Mobile App** (Guru / Santri / Security).
+> Tiga repo terpisah, satu ekosistem. Deploy otomatis via **GitHub Actions → GHCR → SSH**, tanpa akses server manual.
+> 🔒 *Source private — walkthrough & demo tersedia atas permintaan.*
+
+### 🧩 Arsitektur
+
+```
+nch-mobile (Flutter)   nch-web-fe (React 19)   Web publik (landing)
+        │  REST /api            │  REST /api
+        └───────────┬───────────┴──────────┬───────────┘
+                    ▼                      ▼
+          ┌────────────────────────────────────────┐
+          │         nch-web-be (Laravel)          │
+          │   Octane + FrankenPHP · Sanctum       │
+          │   MySQL/MariaDB · Redis (queue/cache) │
+          └───────┬───────────────┬───────────────┘
+                  ▼               ▼
+             ┌─────────┐     ┌─────────┐     ┌────────────────┐
+             │ MariaDB │     │  Redis  │     │ Firebase FCM   │
+             └─────────┘     └─────────┘     └────────────────┘
+```
+
+### ⚙️ Stack per Komponen
+
+| Komponen | Teknologi |
+|---|---|
+| **Backend** (`nch-web-be`) | Laravel 12 · PHP 8.2 · **Laravel Octane + FrankenPHP** · Sanctum · Spatie Permission (RBAC) · Redis queue · Pest |
+| **Web Admin** (`nch-web-fe`) | React 19 · React Router 7 (SPA) · TypeScript 5.8 · Vite 6 · Tailwind CSS 4 · shadcn/ui · SWR · Zustand |
+| **Mobile** (`nch-mobile`) | Flutter 3.38 · Dart 3.7 · GetX · Dio · Firebase FCM · flutter_map · mobile_scanner |
+| **Infra & CI/CD** | Podman/Compose · MariaDB 10.11 · Redis · **GitHub Actions → ghcr.io → SSH deploy** · nginx (SPA) |
+| **Integrasi** | Firebase Cloud Messaging (push) · Sentry (error tracking) · Google Play (distribusi mobile) |
+
+### ✨ Sorotan Teknis
+
+- 🔐 **RBAC 3 role** (Guru / Santri / Security) dengan `spatie/laravel-permission`
+- 📍 **Absensi berbasis geofence** — auto check-out, auto-fill kelas kosong, notifikasi jendela absen via scheduler
+- 📲 **Push notification realtime** — job `SendFcmNotification` di Redis queue + Firebase FCM
+- 🧾 **Rapor & dokumen** — generate PDF (DomPDF) & Excel (Maatwebsite) + QR code
+- 🚀 **Zero-downtime deploy** — migrasi idempoten terpasang otomatis saat CI/CD, worker & scheduler di-recreate
+- 🧪 **Kualitas terjaga** — Pest (BE), `tsc --noEmit` (FE), `flutter analyze` (mobile) di setiap PR
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
+  <img src="https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+  <img src="https://img.shields.io/badge/Octane-FrankenPHP-777BB4?style=for-the-badge&logo=laravel&logoColor=white" alt="octane" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+  <img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
+  <img src="https://img.shields.io/badge/Flutter-3.38-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
+  <img src="https://img.shields.io/badge/MariaDB-10.11-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
+  <img src="https://img.shields.io/badge/Firebase-FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="gha" />
+  <img src="https://img.shields.io/badge/ghcr.io-Registry-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="ghcr" />
+</p>
 
 ---
 
