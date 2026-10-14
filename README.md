@@ -63,6 +63,29 @@
 
 ---
 
+## 🎲 3D Playground — klik buat main!
+
+> GitHub README blok JS → 3D playable inline tidak bisa. Workaround: preview SVG + klik buka demo interaktif full 3D.
+
+<p align="center">
+  <a href="https://spline.design" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_3D-CLICK_ME-2e97f7?style=for-the-badge&logo=three.js&logoColor=white" alt="play 3d" />
+  </a>
+  <a href="https://spline.design" target="_blank">
+    <img src="https://img.shields.io/badge/DRAG%20%26%20ZOOM-interactive-38bdf8?style=flat" alt="drag zoom" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://spline.design" target="_blank">
+    <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="3D contrib" />
+  </a>
+</p>
+
+<!-- ponytail: ganti https://spline.design di atas dengan link Spline/Three.js Vercel kamu. Generate 3D contrib real di https://github.com/yoshi389111/github-profile-3d-contrib (workflow → profile-3d-contrib/profile-green-animate.svg) lalu ganti src di atas -->
+
+---
+
 ## 📊 GitHub Analytics & Animations
 
 <div align="center">
