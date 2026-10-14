@@ -38,10 +38,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-111827?style=for-the-badge&logo=espressif&logoColor=white" alt="esp32" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="mqtt" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="websocket" />
+  <img src="./assets/esp32.svg" width="48" alt="esp32" />
+  <img src="./assets/mqtt.svg" width="48" alt="mqtt" />
+  <img src="./assets/websocket.svg" width="48" alt="websocket" />
 </p>
+
+<!-- ponytail: icon IoT custom di ./assets/*.svg (40x40 tile, bg #1a1b27) — commit folder assets ke repo Fodly18/Fodly18 bareng README ini -->
 
 ---
 
