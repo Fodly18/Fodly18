@@ -1,18 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e97f7,100:a5b4fc&height=180&section=header&text=Eki%20—%20Fullstack%20Web%20Developer&fontSize=28&fontColor=ffffff&animation=fadeIn&desc=Politeknik%20Negeri%20Jember%20—%20Building%20scalable%20web%20apps&descAlignY=72&descAlign=50" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Eki!+%F0%9F%91%8B;Fullstack+Web+Dev+%2B+Systems+Enthusiast;IoT+%2B+AI+%2B+Scalable+Web+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Eki!+%F0%9F%91%8B;Fullstack+Web+Dev+%2B+Systems+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Fodly18.Fodly18&left_text=Profile%20views" alt="views" />
   <img src="https://img.shields.io/github/followers/Fodly18?label=Followers&logo=github&style=for-the-badge&color=0e75b6" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20x%20IoT%20x%20AI-38bdf8?style=for-the-badge&logo=rocket&logoColor=white" alt="focus" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Web%20%26%20IoT-38bdf8?style=for-the-badge&logo=rocket&logoColor=white" alt="focus" />
   <img src="https://img.shields.io/badge/Status-Open%20for%20Intern-22c55e?style=for-the-badge&logo=handshake&logoColor=white" alt="status" />
 </p>
 
 <p align="center">
-  <i>“ Ngoding serius, debugging playful — ship fast, learn faster 🎮 ”</i>
+  <i>“ Building reliable software with clean architecture, thoughtful design, and continuous improvement. ”</i>
 </p>
 
 ---
