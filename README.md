@@ -76,7 +76,7 @@
 | 🌿 **[SmartCoy](https://github.com/Fodly18/web_monitoring_agro)** — IoT Hydroponic + AI | `Laravel` `JS` `Bootstrap` `Python` `C++` `ESP32` `MQTT` `MySQL` | Realtime dashboard pH/PPM/temp + HOG & SVM leaf disease early model |
 | 🛒 **[GoLapak](https://github.com/HiragiIsMe/golapak-web)** — UMKM Digitalization | `Laravel` `JS` `MySQL` `Bootstrap` | 100% responsive + RESTful API sinkron web ↔ mobile |
 | 📚 **[Edu-Learn](https://github.com/Fodly18/Nekolympus_S3)** — LMS SDN 1 Kalisat | `PHP/MVC` `JS` `MySQL` `Bootstrap` | Lead System Architect — grading + material management end-to-end |
-| 🏫 **NCH (Nurul Chotib)** — School Management System 🔒 | `Laravel 12` `Octane` `React 19` `TypeScript` `Flutter` `MariaDB` `Redis` `Firebase FCM` | Ekosistem 3 repo: REST API + Web Admin + Mobile (Guru/Santri/Security), absensi geofence & push realtime, deploy CI/CD otomatis |
+| 🏫 **[NCH (Nurul Chotib)](https://nurulchotib.com)** — School Management System | `Laravel 12` `Octane` `React 19` `TypeScript` `Flutter` `MariaDB` `Redis` `Firebase FCM` | Live production app — ekosistem 3 repo: REST API + Web Admin + Mobile (Guru/Santri/Security), absensi geofence & push realtime, deploy CI/CD otomatis |
 
 ---
 
