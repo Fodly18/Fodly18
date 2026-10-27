@@ -85,15 +85,13 @@
 ## 📊 GitHub Analytics & Animations
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fodly18&theme=dark&hide_border=true&count_private=true&rank_icon=github&card_width=495&cache_seconds=21600" alt="GitHub Stats" />
+  <img width="410" src="https://github-readme-stats.vercel.app/api?username=Fodly18&theme=dark&hide_border=true&count_private=true&rank_icon=github&card_width=410&cache_seconds=21600" alt="GitHub Stats" />
+  <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fodly18&theme=dark&hide_border=true&count_private=true&layout=compact&langs_count=8&card_width=410&cache_seconds=21600" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fodly18&theme=dark&hide_border=true&count_private=true&layout=compact&langs_count=8&card_width=495&cache_seconds=21600" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fodly18&theme=dark&hide_border=true&card_width=495" alt="GitHub Streak" />
+  <img width="410" src="https://streak-stats.demolab.com/?user=Fodly18&theme=dark&hide_border=true&card_width=410" alt="GitHub Streak" />
+  <img width="410" src="https://github-readme-stats.vercel.app/api?username=Fodly18&theme=dark&hide_border=true&count_private=true&rank_icon=github&card_width=410&hide=issues,contribs&show=prs_merged,prs_merged_percentage&custom_title=Pull%20Requests&cache_seconds=21600" alt="Pull Requests" />
 </p>
 
 ### 🕹️ Pac-Man Contribution Adventure
