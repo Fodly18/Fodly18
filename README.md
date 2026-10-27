@@ -135,4 +135,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e97f7,100:a5b4fc&height=80&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=22&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img src="./img/footer-banner.jpg" alt="Thanks for visiting!" />
+</p>
