@@ -109,7 +109,7 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <i>Tertarik kolaborasi, ngobrol soal web/IoT, atau punya peluang magang/kerja? Reach me out! 👇</i>
+  <i>Open to collaboration, technical discussions, or internship opportunities. Feel free to reach out.</i>
 </p>
 
 <p align="center">
