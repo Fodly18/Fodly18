@@ -136,5 +136,5 @@
 ---
 
 <p align="center">
-  <img src="./img/footer-banner-v2.jpg" alt="Thanks for visiting!" />
+  <img src="./img/footer-banner-v3.jpg" alt="Thanks for visiting!" />
 </p>
