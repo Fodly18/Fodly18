@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fodly18.Fodly18&left_text=Profile%20views" height="28" alt="views" />
+  <img src="https://hits.sh/github.com/Fodly18.svg?style=for-the-badge&label=Profile%20views&color=0e75b6" alt="views" />
   <img src="https://img.shields.io/github/followers/Fodly18?label=Followers&logo=github&style=for-the-badge&color=0e75b6" alt="followers" />
   <img src="https://img.shields.io/badge/Focus-Fullstack%20Web%20%26%20IoT-38bdf8?style=for-the-badge&logo=rocket&logoColor=white" alt="focus" />
   <img src="https://img.shields.io/badge/Status-Open%20for%20Intern-22c55e?style=for-the-badge&logo=handshake&logoColor=white" alt="status" />
