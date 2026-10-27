@@ -17,17 +17,15 @@
 
 ---
 
-## 🙋‍♂️ About Me — playful edition
+## 🙋‍♂️ About Me
 
-> Associate Degree Student in Informatics Engineering at **Politeknik Negeri Jember**. Passionate about efficient, scalable web apps + hardware orchestration (IoT) + modern system design.
+> Associate Degree student in Informatics Engineering at **Politeknik Negeri Jember**, focused on building efficient, scalable web applications, IoT integration, and modern system design.
 
-- 🚀 **Currently building:** **NCH — School Management System** (Laravel + React + Flutter) & exploring Advanced Fullstack & DevOps
-- 🧪 **Tinkering:** ESP32 + MQTT/WebSockets + sensor fusion (pH/PPM/temp) & early CV (HOG+SVM)
-- ⚡ **Fun fact:** Suka ngoprek sampai sensor ngambek, lalu fix pakai `console.log` & doa 🙏
-- 🎮 **When not coding:** ngulik IoT, gaming, ngelayap cari inspirasi
-- 💼 **Open for:** Junior Developer / Tech Intern — let's build!
-
-<!-- ponytail: ganti fun fact di atas dengan 1 baris personal kamu -->
+- 🚀 **Currently developing:** **NCH — School Management System**, a three-tier ecosystem (Laravel REST API, React admin panel, Flutter mobile app)
+- 🧪 **Research & experimentation:** ESP32-based sensor fusion (pH/PPM/temperature) with MQTT/WebSocket telemetry, plus early computer vision using HOG + SVM
+- 🛠️ **Technical focus:** Laravel ecosystem, REST API design, containerized deployment, and CI/CD pipelines
+- 📈 **Continuous learning:** Advanced fullstack engineering and DevOps fundamentals
+- 💼 **Open to:** Junior Developer and Technology Internship opportunities
 
 ---
 
